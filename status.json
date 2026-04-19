@@ -1,4 +1,8 @@
 {
   "version": 1,
-  "banner": null
+  "banner": {
+    "title": "Test banner",
+    "message": "If you see this in the app, remote status is working.",
+    "severity": "warning"
+  }
 }
