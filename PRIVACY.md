@@ -1,7 +1,12 @@
+---
+title: Privacy Policy — SpeedSync
+permalink: /PRIVACY/
+---
+
 # Privacy Policy
 
 **SpeedSync (Android Application)**
-**Effective Date:** 2026-04-18
+**Effective Date:** 2026-04-26
 **Contact:** support@speedsync.dev
 
 ---

@@ -1,7 +1,12 @@
+---
+title: Terms of Service — SpeedSync
+permalink: /TERMS/
+---
+
 # Terms of Service
 
 **SpeedSync (Android Application)**
-**Effective Date:** 2026-04-20
+**Effective Date:** 2026-04-26
 **Contact:** support@speedsync.dev
 
 ---
@@ -70,7 +75,10 @@ If those services change or become unavailable:
 
 ## 7. Purchases
 
-SpeedSync is a one-time paid application via Google Play.
+SpeedSync is a free application. The first three syncs are included at
+no cost. Unlimited syncs are available via an optional one-time in-app
+purchase ("Pro unlock") through Google Play. There is no subscription
+and no recurring charge.
 
 Payments are processed by Google Play. We do not handle payment
 information.

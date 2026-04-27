@@ -1,2 +1,5 @@
-title: SpeedSync Privacy & Terms
-description: Privacy Policy and Terms of Service
+title: SpeedSync Legal
+description: Privacy Policy and Terms of Service for SpeedSync
+permalink: pretty
+exclude:
+  - README.md
